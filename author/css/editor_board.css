@@ -1,0 +1,35 @@
+.information_main_area {
+	width: 100%;
+	max-width: 70%;
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 15px;
+}
+.info-single_item {
+	flex: 0 0 50%;
+}
+.info_title {
+	padding: 10px 0;
+}
+.sub_titles {
+	padding-top: 5px;
+	display: block;
+	font-style: italic;
+	text-transform: capitalize;
+	font-size: 18px;
+}
+.info-single_item ul {
+	display: flex;
+	justify-content: flex-start;
+	align-content: center;
+	align-items: start;
+	margin-bottom: 20px;
+}
+.info-single_item ul li {
+	flex: 0 0 50%;
+}

@@ -1,0 +1,9 @@
+.ALDropdown_menu {
+	padding-left: 22px;
+	list-style: disclosure-closed;
+	padding-top: 6px;
+	display: none;
+}
+.rotet1,.rotet2,.rotet3,.rotet4 {
+	transform: rotate(180deg);
+}

@@ -1,0 +1,260 @@
+[14-Feb-2021 15:57:32 UTC] PHP Notice:  Trying to get property of non-object in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 20
+[14-Feb-2021 15:57:32 UTC] PHP Notice:  Undefined variable: article_tittle in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 138
+[14-Feb-2021 15:58:20 UTC] PHP Notice:  Undefined variable: article_tittle in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 137
+[14-Feb-2021 15:58:23 UTC] PHP Notice:  Undefined variable: article_tittle in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 137
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined index: username in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 17
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined index: username in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 94
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined variable: tittle in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 136
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined variable: fname in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 142
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined variable: date_s in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 152
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined variable: category in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 153
+[16-Feb-2021 06:07:28 UTC] PHP Notice:  Undefined variable: status in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 155
+[10-Mar-2021 18:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 18:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 19:00:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 19:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 19:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 19:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 19:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 105
+[10-Mar-2021 19:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 116
+[10-Mar-2021 19:08:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/mns_tracking.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 116
+[10-Mar-2021 19:46:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 121
+[10-Mar-2021 20:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/index.php on line 10
+[10-Mar-2021 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/asuu/public_html/ejournals/author/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/asuu/public_html/ejournals/author/index.php on line 10
+[12-Mar-2021 16:05:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/header.php:1) in /home/asuu/public_html/ejournals/author/index.php on line 4
+[12-Mar-2021 16:05:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/header.php:1) in /home/asuu/public_html/ejournals/author/index.php on line 4
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:35:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:37:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 104
+[09-May-2021 09:49:57 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 09:49:57 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 09:49:57 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 09:49:57 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 09:52:02 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 09:52:02 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 113
+[09-May-2021 09:52:02 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 113
+[09-May-2021 09:52:02 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 113
+[09-May-2021 09:52:02 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 113
+[09-May-2021 09:52:02 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 09:52:02 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 09:53:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 09:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asuu/public_html/ejournals/author/index.php on line 111
+[09-May-2021 09:53:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 09:53:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:02:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asuu/public_html/ejournals/author/index.php on line 111
+[09-May-2021 10:02:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:02:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:07:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:07:39 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 114
+[09-May-2021 10:07:39 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 114
+[09-May-2021 10:07:39 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 114
+[09-May-2021 10:07:39 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 114
+[09-May-2021 10:07:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:07:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:10:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:10:41 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:10:41 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:10:41 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:10:41 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:10:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:10:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/asuu/public_html/ejournals/author/index.php on line 112
+[09-May-2021 10:11:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asuu/public_html/ejournals/author/index.php on line 116
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:11:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:12:26 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:12:26 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:12:26 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:12:26 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:12:26 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 119
+[09-May-2021 10:12:26 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:12:26 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:14:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:14:21 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 120
+[09-May-2021 10:14:21 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 120
+[09-May-2021 10:14:21 UTC] PHP Warning:  Illegal string offset 'volume' in /home/asuu/public_html/ejournals/author/index.php on line 120
+[09-May-2021 10:14:21 UTC] PHP Warning:  Illegal string offset 'vy' in /home/asuu/public_html/ejournals/author/index.php on line 120
+[09-May-2021 10:14:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:14:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:15:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:15:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:15:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:16:38 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:16:38 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:16:38 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:18:36 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:18:36 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:18:36 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:41:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:41:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:41:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:42:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:42:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:42:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:45:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:45:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:45:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:47:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:47:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:47:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, integer given in /home/asuu/public_html/ejournals/author/index.php on line 11
+[09-May-2021 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home/asuu/public_html/ejournals/author/index.php:12
+Stack trace:
+#0 /home/asuu/public_html/ejournals/author/index.php(93): postCount('Journal of Huma...')
+#1 {main}
+  thrown in /home/asuu/public_html/ejournals/author/index.php on line 12
+[09-May-2021 10:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home/asuu/public_html/ejournals/author/index.php:12
+Stack trace:
+#0 /home/asuu/public_html/ejournals/author/index.php(93): postCount('Journal of Huma...')
+#1 {main}
+  thrown in /home/asuu/public_html/ejournals/author/index.php on line 12
+[22-May-2021 11:37:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[22-May-2021 11:37:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[22-May-2021 11:37:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[22-May-2021 11:37:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[22-May-2021 11:38:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[22-May-2021 11:38:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[22-May-2021 11:39:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 07:15:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 07:16:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 07:16:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 10:19:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 10:19:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 10:28:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 10:28:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 10:43:08 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 138
+[23-May-2021 10:43:11 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 138
+[23-May-2021 10:44:09 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 138
+[23-May-2021 10:44:11 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/asuu/public_html/ejournals/author/mns_tracking.php on line 138
+[23-May-2021 13:15:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 13:15:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 13:22:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 13:24:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 13:24:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 13:24:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[23-May-2021 13:34:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[25-May-2021 19:23:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/author/archives.php:1) in /home/asuu/public_html/ejournals/author/header.php on line 2
+[05-Jun-2021 15:27:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/reviewer/archives.php:1) in /home/asuu/public_html/ejournals/reviewer/header.php on line 2
+[05-Jun-2021 15:27:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/reviewer/archives.php:1) in /home/asuu/public_html/ejournals/reviewer/header.php on line 2
+[04-Oct-2021 18:55:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/reviewer/archives.php:1) in /home/asuu/public_html/ejournals/reviewer/header.php on line 2
+[26-Oct-2021 05:38:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/asuu/public_html/ejournals/reviewer/archives.php:1) in /home/asuu/public_html/ejournals/reviewer/header.php on line 2
